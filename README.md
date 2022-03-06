@@ -14,4 +14,7 @@ Hi, I'm Julian! **I'm a data analyst at the Department of Buildings in New York 
 
 ## [Resume](https://github.com/Julianyepesos/resume/blob/main/MARCHRESUME.pdf)
 
-# Projects
+## Projects
+
+
+<img width="800" height="400" src="https://user-images.githubusercontent.com/100659117/156904983-b0d76457-cfb6-4762-8877-846d2c635962.png" alt="mining file">
